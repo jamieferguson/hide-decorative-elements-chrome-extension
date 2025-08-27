@@ -3,6 +3,8 @@ A simple Chrome extension that toggles the visibility of elements that have the 
 - SVGs with no aria-label
 - Elements with aria-hidden="true"
 
+The goal is to make it easy to test what elements are correctly hidden from screenreaders.
+
 ----
 
 ### Steps to install:
