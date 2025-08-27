@@ -3,7 +3,9 @@ A simple Chrome extension that toggles the visibility of elements that have the 
 - SVGs with no aria-label
 - Elements with aria-hidden="true"
 
-Steps to install:
+----
+
+### Steps to install:
 1. Download all the files and save to a folder locally.
 2. Open Chrome's Extensions Page:
 In your Chrome browser, go to chrome://extensions/ or click the three-dot menu icon, select More tools, and then click Extensions. 
